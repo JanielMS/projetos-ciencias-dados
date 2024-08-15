@@ -1,0 +1,27 @@
+Aula FCD 07/08/2024
+1. Ciclo da análise de dados
+2. As dores do cientista de dados
+3. Opções para deploy de produtos de dados
+	- Django
+	- Flask
+	- FastAPI
+	- Streamlit
+4. Conhecendo o streamlit
+	- Documentação
+	- Boas práticas
+		- Maquina local [prototipagem]
+		- Python
+		- Distribuição Anaconda*
+		- IDE 
+		- Ambiente virtual (Anaconda ou Python venv)
+5. Primeiros passos com o Streamlit
+	- hello.py
+	- page_config.py 
+	- textos.py 
+	- carregamento_arquivos.py 
+	- arquivos_tabelas.py
+	- arquivos_midia.py 
+	- widgets.py 
+	- graficos.py
+	- tutorial.py (dashboards)
+

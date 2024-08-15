@@ -1,0 +1,10 @@
+1. Ciclo de análise de dados
+- Entende o problema
+- levantando requisitos
+- coleta dos dados
+- tratamento de dados(limpeza, nulos, etc)
+- EDA (tendencias, padroes, insights, regras)
+- Modelagem preditiva(Machine Learning)
+- Deploy dos datas products
+
+2. fazer deploy com streamlit

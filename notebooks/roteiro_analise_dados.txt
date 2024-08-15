@@ -1,0 +1,32 @@
+4. Análise Exploratória
+ Averiguação Inicial
+ Sumario descritivo
+ Análise das variáveis categóricas
+ 
+Bloco 1 - análise das variáveis categóricas - perguntas
+  ex:.
+ 	5.0. A distribuição entre os generos é balanceada?
+	5.1. Existe alguma etnia predominante?
+	5.2. Qual é a proporção do nível educacional dos pais/responsáveis?
+	5.3. Quantos alunos fizeram uso da taxa do almoço?
+	5.4. Quantos alunos fizeram preparatório?
+	5.5. De forma geral, em qual prova os alunos se saíram melhor?
+Bloco 2 - impacto das variáveis categóricas individuais sobre o desempenho - outras perguntas
+ ex:. 
+ 	5.6. O gênero impacta o desempenho em alguma prova específica?
+	5.7. A etnia/ascendência impacta a performance dos alunos?
+	5.8. A educação dos pais exerce alguma influencia na atuação dos alunos?
+	5.9. A taxa de almoço reduzida impacta de alguma forma o desempenho dos alunos?
+	5.10. Fazer um curso preparatório melhorou os resultados dos alunos?
+
+Bloco 3 - análise de 2 variáveis categóricas combinadas sobre o desempenho - mais perguntas
+	5.11. Genero x Etinia x tx_almoco
+	5.12. Genero x Etnia x Preparatorio
+	5.13. Taxa almoco x Etnia x Preparatorio
+	5.14. Genero x Educ pais x tx_almoco
+	5.15. Genero x Educ pais x Preparatorio
+	5.16. Taxa almoco x Educ pais x Preparatorio
+	5.17. Etnia x Educ Pais x tx_almoco
+	5.18. Etnia x Educ Pais x preparatorio
+
+Bloco 4 - análise das variáveis numéricas - beeemmm importante
